@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Creating a XML Tree using LINQ to XML-->
+<Packages>
+  <Package ID="1">
+    <Status>W magazynie</Status>
+    <Date>czwartek, 17 maja 2018</Date>
+    <IDUser>3</IDUser>
+    <NameUser>Piper</NameUser>
+    <SurnameUser>Peri</SurnameUser>
+    <AddressUser>Pensylwania</AddressUser>
+  </Package>
+  <Package ID="2">
+    <Status>Dostarczono</Status>
+    <Date>środa, 16 maja 2018</Date>
+    <IDUser>2</IDUser>
+    <NameUser>Dilion</NameUser>
+    <SurnameUser>Harper</SurnameUser>
+    <AddressUser>Floryda</AddressUser>
+  </Package>
+  <Package ID="3">
+    <Status>W magazynie</Status>
+    <Date>środa, 16 maja 2018</Date>
+    <IDUser>9</IDUser>
+    <NameUser>Anna</NameUser>
+    <SurnameUser>Bell Peaks</SurnameUser>
+    <AddressUser>Kalifornia</AddressUser>
+  </Package>
+  <Package ID="4">
+    <Status>W systemie</Status>
+    <Date>środa, 16 maja 2018</Date>
+    <IDUser>7</IDUser>
+    <NameUser>Christy</NameUser>
+    <SurnameUser>Mack</SurnameUser>
+    <AddressUser>Illinois</AddressUser>
+  </Package>
+  <Package ID="5">
+    <Status>W drodze</Status>
+    <Date>środa, 16 maja 2018</Date>
+    <IDUser>1</IDUser>
+    <NameUser>Brandi</NameUser>
+    <SurnameUser>Love</SurnameUser>
+    <AddressUser>Karolina Północna</AddressUser>
+  </Package>
+  <Package ID="6">
+    <Status>W drodze</Status>
+    <Date>czwartek, 17 maja 2018</Date>
+    <IDUser>5</IDUser>
+    <NameUser>Mia</NameUser>
+    <SurnameUser>Khalifa</SurnameUser>
+    <AddressUser>Bejrut</AddressUser>
+  </Package>
+  <Package ID="7">
+    <Status>W magazynie</Status>
+    <Date>środa, 16 maja 2018</Date>
+    <IDUser>4</IDUser>
+    <NameUser>Tori</NameUser>
+    <SurnameUser>Black</SurnameUser>
+    <AddressUser>Washington</AddressUser>
+  </Package>
+</Packages>

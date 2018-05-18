@@ -1,0 +1,17 @@
+c:\users\aleksandernaporowski\source\repos\TestDataGridView\TestDataGridView\bin\Debug\TestDataGridView.exe.config
+c:\users\aleksandernaporowski\source\repos\TestDataGridView\TestDataGridView\bin\Debug\TestDataGridView.exe
+c:\users\aleksandernaporowski\source\repos\TestDataGridView\TestDataGridView\bin\Debug\TestDataGridView.pdb
+c:\users\aleksandernaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.csprojResolveAssemblyReference.cache
+c:\users\aleksandernaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.Properties.Resources.resources
+c:\users\aleksandernaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.csproj.GenerateResource.cache
+c:\users\aleksandernaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.csproj.CoreCompileInputs.cache
+c:\users\aleksandernaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.exe
+c:\users\aleksandernaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.pdb
+C:\Users\AleksanderNaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.LoginPanel.resources
+C:\Users\AleksanderNaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.AdminMenuPanel.resources
+C:\Users\AleksanderNaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.UserManagementPanel.resources
+C:\Users\AleksanderNaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.EditAddUserPanel.resources
+C:\Users\AleksanderNaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.PackageManagementPanel.resources
+C:\Users\AleksanderNaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.EditAddPackagePanel.resources
+C:\Users\AleksanderNaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.UserPackagesPanel.resources
+C:\Users\AleksanderNaporowski\source\repos\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.ChangeStatusPackage.resources

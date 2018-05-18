@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Creating a XML Tree using LINQ to XML-->
+<Users>
+  <User ID="1">
+    <Name>Brandi</Name>
+    <Surname>Love</Surname>
+    <Address>Karolina Północna</Address>
+    <Function>Administrator</Function>
+    <Login>brandi</Login>
+    <Password>love1234</Password>
+  </User>
+  <User ID="2">
+    <Name>Dilion</Name>
+    <Surname>Harper</Surname>
+    <Address>Floryda</Address>
+    <Function>Kurier</Function>
+    <Login>dilion</Login>
+    <Password>harp1234</Password>
+  </User>
+  <User ID="3">
+    <Name>Piper</Name>
+    <Surname>Peri</Surname>
+    <Address>Pensylwania</Address>
+    <Function>Kurier</Function>
+    <Login>piper</Login>
+    <Password>peri1234</Password>
+  </User>
+  <User ID="4">
+    <Name>Tori</Name>
+    <Surname>Black</Surname>
+    <Address>Washington</Address>
+    <Function>Kurier</Function>
+    <Login>tori</Login>
+    <Password>blac1234</Password>
+  </User>
+  <User ID="5">
+    <Name>Mia</Name>
+    <Surname>Khalifa</Surname>
+    <Address>Bejrut</Address>
+    <Function>Kurier</Function>
+    <Login>mia1</Login>
+    <Password>khal1234</Password>
+  </User>
+  <User ID="6">
+    <Name>Riley</Name>
+    <Surname>Reid</Surname>
+    <Address>Floryda</Address>
+    <Function>Użytkownik</Function>
+    <Login>riley</Login>
+    <Password>reid1234</Password>
+  </User>
+  <User ID="7">
+    <Name>Christy</Name>
+    <Surname>Mack</Surname>
+    <Address>Illinois</Address>
+    <Function>Użytkownik</Function>
+    <Login>christy</Login>
+    <Password>mack1234</Password>
+  </User>
+  <User ID="8">
+    <Name>Lana</Name>
+    <Surname>Rhoades</Surname>
+    <Address>Illinois</Address>
+    <Function>Użytkownik</Function>
+    <Login>lana</Login>
+    <Password>rhoa1234</Password>
+  </User>
+  <User ID="9">
+    <Name>Anna</Name>
+    <Surname>Bell Peaks</Surname>
+    <Address>Kalifornia</Address>
+    <Function>Użytkownik</Function>
+    <Login>anna</Login>
+    <Password>peak1234</Password>
+  </User>
+</Users>
